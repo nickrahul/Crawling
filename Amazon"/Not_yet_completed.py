@@ -145,3 +145,6 @@ class Crawl:
         })
         print(self.data)
        
+
+url="https://www.amazon.in/s"
+crl=Crawl(url)
